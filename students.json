@@ -1,0 +1,32 @@
+[
+    {
+        "id": "CSE001",
+        "name": "Bob Parker",
+        "department": "Computer Science",
+        "year": "S6"
+    },
+    {
+        "id": "CSE002",
+        "name": "Arjun Nair",
+        "department": "Computer Science",
+        "year": "S6"
+    },
+    {
+        "id": "CSE003",
+        "name": "Rahul Krishna",
+        "department": "Computer Science",
+        "year": "S6"
+    },
+    {
+        "id": "CSE004",
+        "name": "Anjali Thomas",
+        "department": "Computer Science",
+        "year": "S6"
+    },
+    {
+        "id": "CSE005",
+        "name": "Sneha Mathew",
+        "department": "Computer Science",
+        "year": "S6"
+    }
+]
